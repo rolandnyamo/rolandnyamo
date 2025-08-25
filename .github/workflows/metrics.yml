@@ -4,8 +4,9 @@ on:
   # Update once a day (06:00 UTC). Adjust if you like.
   schedule:
     - cron: "0 6 * * *"
-  # Also let you run it manually
+  # Also let you run it manually each commit to main
   workflow_dispatch:
+  push: {branches: ["main"]}
 
 permissions:
   contents: write    # needed to commit the generated svg

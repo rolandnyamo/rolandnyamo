@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Roland 👋</h1>
 <p align="left">
-  Product-minded generalist builder • JS/TS • Cloud • Data • AI
+  Product-minded generalist and builder • JS/TS • Cloud • Data • AI
 </p>
 
 <p align="left">
@@ -24,8 +24,44 @@
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&labelColor=555" />
 </p>
 
----
 
 <p align="left">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img src="./header.svg" alt="Profile Header" />
 </p>
+
+<p align="left">
+  <img src="./repositories.svg" alt="Repositories Overview" />
+  <img src="./activity_community.svg" alt="Activity and Community" />
+  <img src="./calendar.svg" alt="Contributions Calendar (half-year)" />
+  <img src="./issue_pr_lang.svg" alt="Issues, PRs, and Languages" />
+  <img src="./gh-habits.svg" alt="GitHub Habits" />
+  <img src="./achievements.svg" alt="Achievements" />
+  <img src="./lines-of-code.svg" alt="Lines of Code" />
+  
+</p>
+</p>
+<a href="https://github.com/rolandnyamo">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/rolandnyamo">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/rolandnyamo">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/rolandnyamo">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/rolandnyamo">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/rolandnyamo">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/rolandnyamo">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
